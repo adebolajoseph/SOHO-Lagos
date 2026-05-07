@@ -232,9 +232,6 @@ h1, h2, h3 { font-family: 'Cormorant Garamond', serif; line-height: 1.1; }
   display: flex;
   align-items: center;
   justify-content: center;
-  background-image: url('../images/soho_hall.webp');
-  background-size: cover;
-  background-position: center;
 }
 
 .hero-video {
